@@ -1,5 +1,6 @@
 # EcoMove - Android Application
 **This application is a work in progress
+
 EcoMove is an innovative Android app designed to encourage and promote eco-friendly commuting practices. With a user-friendly interface and captivating design, EcoMove aims to inspire users to choose sustainable transportation options such as public transit, cycling, or walking, reducing their carbon footprint and contributing to a greener planet. The app rewards users for each eco-friendly commute, earning points and virtual currency that can be used to redeem eco-conscious products and discounts in the rewards store. By fostering a sense of community through challenges and leaderboards, EcoMove empowers users to make environmentally-conscious choices and be part of a collective effort towards a more sustainable future.
 
 ##  Splash Screen (activity_main.xml):
